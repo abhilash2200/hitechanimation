@@ -35,7 +35,7 @@ const Header = () => {
     {id:4,name:'UNIVERSITY',link:'/partnership'},
     {id:5,name:'GALLERY',link:'/gallery'},
     {id:6,name:'CAREER',link:'/career'},
-    {id:7,name:'BLOGS',link:'/blog'},
+    {id:7,name:'BLOGS',link:'/'},
     {id:8,name:'CONTACT',link:'/contact'},
   ]
 
